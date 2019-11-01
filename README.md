@@ -1,6 +1,6 @@
 # GEOG5995
 ## Grazing sheep: an agent based model
-Grazing sheep will give you a graphic interface to run a grazing sheep model, a simplified version of the (link).
+Grazing sheep will give you a graphic interface to run a grazing sheep model, a simplified version of the wolf-sheep predation  [netlogo](https://ccl.northwestern.edu/netlogo/models/WolfSheepPredation).
 
 ## Installation 
 The script is available here fore download
