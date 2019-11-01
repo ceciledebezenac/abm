@@ -16,6 +16,7 @@ The animation is run through a graphic interface that enables users to navigate 
 The agents will check their current state of hunger. They will move randomly to one of their neighbouring cells (queen neighbourhood), eat what is available to them, check their new state of hunger. If they have not eaten for some time, they die. They can finally interact with other agents by sharing some of their grass, and reproducing when their energy level (store of food) is sufficiently high. 
 
 ## Usage
+### Running the model
 This animation can be run from the command line by executing practical9b.py. Note that this script is run with python 3. 
 Please download the necessary modules needed to run the script. The specific dependancies are:
 - tkinter
@@ -25,6 +26,11 @@ Please download the necessary modules needed to run the script. The specific dep
 - csv
 - requests
 - bs4
+### Interaction with the GUI
+Once the script is executed, an user interface will pop up. It is divided in two frames: a raster canvas on the left for the animation and a parameter box on the right for controlling the animation. 
+
+![Graphic interface]()
+
 
 
 ## Contributing
