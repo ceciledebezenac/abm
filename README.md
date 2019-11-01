@@ -32,6 +32,21 @@ Once the script is executed, an user interface will pop up. It is divided in two
 ![Graphic interface](capture.png)
 
 
+### Parameters 
+The interface allows users to modify several global parameters. 
+- agents: change the number of agents from 0 to 1000 (default value set at 10)
+- iterations: change number of iterations before stopping animation
+- reproducing energy: change minimum energy level needed to reproduce
+
+### Commands 
+The interface buttons control the animation and the model output.
+- initialise_all: update parameter values
+- save_output: check the box if csv updated data exporting wanted. 
+- Run 1: run one step of the model.
+- Run: run till stopping condition.
+- Stop: Pause the model.
+- Quit: quit the interface. 
+Note that the model can be run by the Run model tab in the menu bar. 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
