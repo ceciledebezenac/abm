@@ -29,7 +29,7 @@ Please download the necessary modules needed to run the script. The specific dep
 ### Interaction with the GUI
 Once the script is executed, an user interface will pop up. It is divided in two frames: a raster canvas on the left for the animation and a parameter box on the right for controlling the animation. 
 
-![Graphic interface](capture)
+![Graphic interface](capture.jpg)
 
 
 
