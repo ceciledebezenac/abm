@@ -3,7 +3,7 @@
 Grazing sheep will give you a graphic interface to run a grazing sheep model, a simplified version of the wolf-sheep predation  [netlogo](https://ccl.northwestern.edu/netlogo/models/WolfSheepPredation).
 
 ## Installation 
-The script is available here fore download
+The script is available here for download: [abm](https://github.com/ceciledebezenac/abm)
 
 ## Description 
 ### Data
