@@ -8,8 +8,8 @@ The script is available here fore download
 ## Description 
 ### Data
 The data used to initialise the model is available here:
-- environment :
-- agent coordinates:
+- environment :[in.txt](https://www.geog.leeds.ac.uk/courses/computing/practicals/python/agent-framework/part6/in.txt)
+- agent coordinates:[data](https://www.geog.leeds.ac.uk/courses/computing/practicals/python/agent-framework/part9/data.html)
 ### Animation
 The animation is run through a graphic interface that enables users to navigate through options and choose model paramaters. Agents are distributed on a square lattice and are able to move around the envirment while eating and interacting. The animation will run a certain number of steps before user-defined stopping conditions are met.
 #### One step
